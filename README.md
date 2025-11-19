@@ -4,21 +4,30 @@ It manages everything from books and authors to members, staff, and borrow–ret
 
 This project focuses on
 ✨ normalized table design
+
 ✨ meaningful relationships
+
 ✨ enforced constraints
+
 ✨ efficient data organization
 
 🚀 Features
 
 Manage Books, Students, Authors & Staff
+
 Track Book Availability
+
 Issue & Return Books
+
 Maintain Borrow History
+
 Normalized Relational Database
+
 ER Diagram & Table Structures Included
 
 🛠️ Tech Stack
 MySQL Database
+
 MySQL Workbench 
 
 
@@ -30,6 +39,9 @@ MySQL Workbench
 🧠 Learning Outcomes
 
 Database schema design
+
 Use of primary & foreign keys
+
 One-to-many & many-to-one relationships
+
 Handling real library operations using relational tables
