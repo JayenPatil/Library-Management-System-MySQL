@@ -13,22 +13,22 @@ This project focuses on
 
 🚀 Features
 
-Manage Books, Students, Authors & Staff
+➤ Manage Books, Students, Authors & Staff
 
-Track Book Availability
+➤Track Book Availability
 
-Issue & Return Books
+➤Issue & Return Books
 
-Maintain Borrow History
+➤Maintain Borrow History
 
-Normalized Relational Database
+➤Normalized Relational Database
 
-ER Diagram & Table Structures Included
+➤ER Diagram & Table Structures Included
 
 🛠️ Tech Stack
-MySQL Database
+➤MySQL Database
 
-MySQL Workbench 
+➤MySQL Workbench 
 
 
 📊 ER Diagram
@@ -38,10 +38,10 @@ MySQL Workbench
 
 🧠 Learning Outcomes
 
-Database schema design
+➤Database schema design
 
-Use of primary & foreign keys
+➤Use of primary & foreign keys
 
-One-to-many & many-to-one relationships
+➤One-to-many & many-to-one relationships
 
-Handling real library operations using relational tables
+➤Handling real library operations using relational tables
