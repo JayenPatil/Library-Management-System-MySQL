@@ -11,6 +11,8 @@ This project focuses on
 
 ✨ efficient data organization
 
+
+
 🚀 Features
 
 ➤ Manage Books, Students, Authors & Staff
@@ -25,14 +27,19 @@ This project focuses on
 
 ➤ER Diagram & Table Structures Included
 
+
+
 🛠️ Tech Stack
+
 ➤MySQL Database
 
 ➤MySQL Workbench 
 
 
+
 📊 ER Diagram
 <img width="1341" height="819" alt="image" src="https://github.com/user-attachments/assets/e4d2ffb0-42de-4c1c-b83d-d5f7688c8cb5" />
+
 
 
 
