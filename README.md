@@ -1,4 +1,5 @@
 📚 Library Management System (MySQL)
+
 A clean and organized relational database built to simulate how a real library works.
 It manages everything from books and authors to members, staff, and borrow–return history — all through a structured MySQL schema.
 
